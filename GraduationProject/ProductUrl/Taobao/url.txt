@@ -1,0 +1,16 @@
+femaleWinterClothes*https://s.taobao.com/search?initiative_id=staobaoz_20120803&style=grid&q=%E5%86%AC%E8%A1%A3&cat=16
+femaleCoat*https://s.taobao.com/search?initiative_id=staobaoz_20120803&style=grid&q=外套&cat=16
+femaleDress*https://s.taobao.com/search?initiative_id=staobaoz_20120803&style=grid&q=裙子&cat=16
+femaleSweater*https://s.taobao.com/search?initiative_id=staobaoz_20120803&style=grid&q=毛线衣&cat=16
+femaleSportswear*https://s.taobao.com/search?initiative_id=staobaoz_20120803&style=grid&q=运动装&cat=16
+femaleShirt*https://s.taobao.com/search?initiative_id=staobaoz_20120803&style=grid&q=衬衫T恤&cat=16
+femalePants*https://s.taobao.com/search?initiative_id=staobaoz_20120803&style=grid&q=裤子&cat=16
+femaleUnderwear*https://s.taobao.com/search?initiative_id=staobaoz_20120803&style=grid&q=内衣&cat=16
+maleUnderwear*https://s.taobao.com/search?initiative_id=staobaoz_20120803&style=grid&q=内衣&cat=50344007
+malePants*https://s.taobao.com/search?initiative_id=staobaoz_20120803&style=grid&q=裤子&cat=50344007
+maleShirt*https://s.taobao.com/search?initiative_id=staobaoz_20120803&style=grid&q=衬衫T恤&cat=50344007
+maleSportswear*https://s.taobao.com/search?initiative_id=staobaoz_20120803&style=grid&q=运动装&cat=50344007
+maleJacket*https://s.taobao.com/search?initiative_id=staobaoz_20120803&style=grid&q=夹克衫&cat=50344007
+maleSweater*https://s.taobao.com/search?initiative_id=staobaoz_20120803&style=grid&q=毛线衣&cat=50344007
+maleWinterClothes*https://s.taobao.com/search?initiative_id=staobaoz_20120803&style=grid&q=%E5%86%AC%E8%A1%A3&cat=50344007
+maleSuit*https://s.taobao.com/search?initiative_id=staobaoz_20120803&style=grid&q=西服&cat=50344007
